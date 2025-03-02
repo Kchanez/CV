@@ -130,7 +130,7 @@
     justify-content:flex-start;
     line-height: 1.2;
     width: 100%;
-    font-size: 1.3em;
+    font-size: 1em;
 }
 .icon
 {
@@ -142,14 +142,14 @@
 }
 .titre p 
 {
-    font-size: 1.4em;
+    font-size: 1.2em;
     font-weight: bold;
     font-style: italic;
     margin: 15px 0px;
 }
 .icon img 
 {
-    width: 50%;
+    width: 40%;
 }
 .droit
 {
