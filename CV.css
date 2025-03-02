@@ -53,7 +53,7 @@
 }
 .profil .hr1
 {
-    width: 42%;
+    min-width: 50%;
     position: relative;;
     border: 5px solid;
     border-radius: 10px;
@@ -63,21 +63,25 @@
 .profil .hr2
 {
     position: relative;
-    left: 66px;
+    left: 16px;
     top: 14px;
     color: #60e3a9;
-    width: 85%;
+    min-width: 95%;
     z-index: 1;
 }
 .profil .hr3
 {
-    left: 75px;
-    width: 68%;
+    left: 14px;
+    width: 95%;
 }
 .profil .hr4
 {
-    left: 69px;
-    width: 63%;
+    left: 18px;
+    min-width: 95%;
+}
+.profil .hr5
+{
+    left: 28px;
 }
 .img
 {
