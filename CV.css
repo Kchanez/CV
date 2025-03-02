@@ -151,7 +151,7 @@
 {
     width: 50%;
 }
-.CV .droit
+.droit
 {
     display: flex;
     flex-direction: column;
@@ -185,4 +185,36 @@
 .li
 {
     line-height: 2;
+}
+
+@media screen and (max-width: 768px) {
+    .CV {
+        flex-direction: column;
+        width: 100%;
+        align-items: center;
+    }
+    .gauche {
+        flex-direction: column;
+        width: 90%;
+    }
+
+    .droit {
+        flex-direction: column;
+        width: 90%;
+    }
+
+    .persoM {
+        margin-top: 25px;
+    }
+    .icon {
+        width: 20%;
+    }
+    .profil .hr2
+    {
+        left: 57px;
+    }
+    .profil .hr4
+    {
+        left: 47px;
+    }
 }
