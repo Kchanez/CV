@@ -1,3 +1,3 @@
 # CV
 
-https://kchanez.github.io/CV/
+https://kchanez.github.io/CV/CV.html
